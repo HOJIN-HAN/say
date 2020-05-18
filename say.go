@@ -1,5 +1,5 @@
 // Package say is..........
-package say // "github.com/HOJIN-HAN/say"
+package say
 
 import (
 	"fmt"
